@@ -1,0 +1,24 @@
+123-456-7890
+098-765-4321
+0333-3333333
++92333-3333333
+0213-2223331
+32223331
+
+my name is shayan
+shayan is my name 
+my birth place is karachi
+i live in karachi
+
+$1 $2 $3 $4 $5 $6 $7 $8 $9 $0
+$10 $20 $30 $40 $50 $60 $70 $80 $90 $100
+
+Science encompasses the systematic study of the structure and behaviour 
+of the physical and natural world through observation and experiment, and 
+technology is the application of scientific knowledge for practical purposes.
+
+Science encompasses the systematic study of the structure and behaviour 
+of the physical and natural world through observation and experiment, 
+and technology is the application of scientific knowledge for practical 
+purposes.
+
