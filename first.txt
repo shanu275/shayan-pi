@@ -1,6 +1,3 @@
 first file
-<<<<<<< HEAD
 third file
-=======
 second file
->>>>>>> f747daa01212728555fc315b991c69d477d04036
